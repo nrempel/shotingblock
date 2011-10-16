@@ -1,0 +1,5 @@
+This is the code for a game I never finished for the android OS.  It uses cocos2d-android <https://github.com/ZhouWeikuan/cocos2d>.
+
+There is not much example code out there so I thought I would make this open source since I haven't touched it for a while.  The code is probably broken/outdated/ugly but it should provide a good start for some.  Last time I worked on it, it ran fine on my Samsung Galaxy S. It is basically a game skeleton with a functioning pause menu (probably could be changed to function better) and an empty scene for options and scene for the actual game.  The game scene only has a basic animation currently.
+
+Feel free to fire me an email for any questions.  Enjoy!
